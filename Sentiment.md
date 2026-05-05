@@ -262,15 +262,16 @@ You can deploy this app using:
 
 https://ai-sentiment-analysis-8vck5izqjryuoer5veuj5c.streamlit.app/
 
-###### **Screenshots**
+## 📸 Screenshots
 
+### Output 1
+![Output 1](output_1.png)
 
+### Output 2
+![Output 2](output_2.png)
 
-\* Sentiment Dashboard
-
-\* Keyword Analysis
-
-\* Prediction Interface
+### Output 3
+![Output 3](output_3.png)
 
 
 
