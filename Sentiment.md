@@ -258,6 +258,10 @@ You can deploy this app using:
 
 ###### 
 
+**link**
+
+https://ai-sentiment-analysis-8vck5izqjryuoer5veuj5c.streamlit.app/
+
 ###### **Screenshots**
 
 
