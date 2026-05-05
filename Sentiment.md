@@ -297,7 +297,7 @@ https://ai-sentiment-analysis-8vck5izqjryuoer5veuj5c.streamlit.app/
 
 Thiviyesh K
 
-Aspiring Data Analyst | AI Enthusiast
+Aspiring Data Analyst 
 
 
 
